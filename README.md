@@ -2,7 +2,7 @@
 
 **PayWingBot** is a Telegram-native crypto payment service designed to simplify and streamline cryptocurrency transactions for individuals, merchants, and Web3 applications.
 
-We provide a seamless **collect & pay** solution with support for multiple blockchains including **Ethereum, TRON, BNB Chain, TON**, and more.
+We provide a seamless **payin & payout** solution with support for multiple blockchains including **Ethereum, TRON, BNB Chain, TON**, and more.
 
 ## 🔑 What We Do
 
